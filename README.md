@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qayyum22
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML,CSS,Javascript, Data Structures and Algorithims
-- 💞️ I’m looking to collaborate on developing front-end webistes. 
+- 💞️ I’m looking to collaborate on front-end in web development. 
 - 📫 How to reach me? you can contact me @ qayyumabdul660@gmail.com & whatsapp : +91 - 6281562001
 - 
 
