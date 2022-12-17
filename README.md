@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qayyum22
+- 👋 Hi, I’m Qayyum Siddiqui
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML,CSS,Javascript, Data Structures and Algorithims
 - 💞️ I’m looking to collaborate on front-end in web development. 
