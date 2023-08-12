@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EdTech Web Development Project<br>👯 I’m looking to collaborate on MERN stack, AI/ML projects<br>🤝 I’m looking for help with AI / ML learning<br>🌱 I’m currently learning AI / ML <br>💬 Ask me about MERN stack<br>⚡ Fun fact : I'm mechanical engineering graduate, now turned web developer
+🔭 I’m currently working on EdTech Web Development Project<br>👯 I’m looking to collaborate on MERN stack, AI/ML projects<br>🤝 I’m looking for help with AI / ML learning<br>🌱 I’m currently learning AI / ML <br>💬 Ask me about MERN stack<br>⚡ Fun fact : I'm a Mechanical Engineering graduate, now a Web Developer.
 
 
 ## 🌐 Socials:
