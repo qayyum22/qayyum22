@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as AI Tutor at xAI <br>👯 I’m learning AI/ML Tech stack<br>🤝<br>💬 Ask me about MERN stack<br>⚡ Fun fact : I'm a Mechanical Engineering graduate, now a Web Developer.
+🔭 I’m currently working as AI Tutor at xAI <br>👯 I’m learning AI/ML Tech stack<br><br>💬 Ask me about MERN stack<br>⚡ Fun fact : I'm a Mechanical Engineering graduate, now a Web Developer.
 
 
 ## 🌐 Socials:
